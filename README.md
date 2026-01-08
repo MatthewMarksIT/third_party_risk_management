@@ -108,10 +108,5 @@ A CUEC is unreasonable when it:
 
 ---
 
-## Disclaimer
-All vendor names and findings are simulated and used for **demonstration and educational purposes** only. This project is intended to showcase a TPRM assessment workflow and does not represent live production risk decisions.
-
----
-
-## Author
-Created as part of a hands-on security and risk management portfolio project focused on real-world vendor assessment and governance.
+Author: Matthew Marks
+Version: 1/8/2025
