@@ -107,18 +107,6 @@ A CUEC is unreasonable when it:
 - Provide documentation outlining remediation plans, timelines, and validation for any unresolved findings.
 
 ---
-## Methodology
-1. **Vendor intake & use-case review**
-2. **Evidence collection**
-   - SOC 2 reports
-   - Pen test documentation
-   - Security policies
-3. **Risk & gap identification**
-4. **Vendor Q&A based on identified issues**
-5. **CUEC analysis**
-6. **Final recommendation with remediation requirements**
-
----
 
 ## Disclaimer
 All vendor names and findings are simulated and used for **demonstration and educational purposes** only. This project is intended to showcase a TPRM assessment workflow and does not represent live production risk decisions.
